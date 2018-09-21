@@ -1,2 +1,2 @@
-# Taller-1
-Para visualizar el diagrama de clases dar click en el siguiente enlace 
+## Taller-1
+# Para visualizar el diagrama de clases buscar en la zona superior el pdf
